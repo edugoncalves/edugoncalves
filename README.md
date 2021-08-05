@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Olá,eu me chamo Edu Gonçalves.👋
+## Olá, eu me chamo Edu Gonçalves.👋
  <div>
   <a href="https://github.com/edugoncalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edugoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
